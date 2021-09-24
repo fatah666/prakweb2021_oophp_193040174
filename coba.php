@@ -4,9 +4,8 @@ Ujang Fatah Abwaba Khoer
 193040174
 https://github.com/fatah666/prakweb2021_oophp_193040174.git
 */
-class Coba {
-
-
+class Coba
+{
 }
 
 
